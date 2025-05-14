@@ -545,7 +545,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7716ef957593d6d4185465643de832ef, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  num1: {fileID: 236823455}
+  inputNum1: {fileID: 236823455}
   result: {fileID: 1516726258}
 --- !u!4 &942007619
 Transform:
